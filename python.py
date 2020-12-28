@@ -8,4 +8,4 @@ def gradient(z,y,x):
 def update_weight(w, b, n, dw, db):
     w_new = w - n*dw
     b_new = b - n*db
-  #c the code has changed here
+  #c the code has changed here..
